@@ -1,0 +1,60 @@
+ table {
+     width: 500px;
+     margin: 20px;
+     
+    }
+    form{
+     border: 1px solid rgb(0, 238, 255);
+    background-color: rgb(38, 201, 201);
+    width: 500px;
+    justify-content: center;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 1px 2px 4px 4px rgb(82, 60, 60);
+ }
+ input{
+    width: 89%;
+    padding: 5px;
+    font-size: 20px;
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    box-shadow: 1px 2px 4px 4px rgb(82, 60, 60);
+
+ }
+  label{
+    font-size: 20px;
+  }
+h2 {
+    text-align: center;
+ }
+  
+  button{
+    padding:10px 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+    box-shadow: 1px 2px 4px 4px rgb(97, 64, 64);
+
+  }
+  #submit{
+    background-color:green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+  }
+  #reset{
+    background-color:orangered;
+    color: white;
+    border: 1px solid orangered;
+    border-radius: 5px;
+  }
+  marquee{
+    font-size: 20px;
+    border: 1px solid palevioletred;
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 1px 2px 4px 4px rgb(97, 64, 64);
+    margin: 20px;
+  }
+  
+
